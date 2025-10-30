@@ -2,6 +2,14 @@
 
 **Majoring in Computer Science & Engineering at The Ohio State University** Specializing in **Software Engineering**
 ---
+**About Me:** 
+- Computer Science & Engineering student at **The Ohio State University**, passionate about technology and innovation
+- Earned an **Honors Diploma** from River Valley High School and an **Associate's degree in Software Development** from Marion Technical College
+- Strong foundation in **programming, data structures, algorithms, and engineering principles**
+- Experienced in **hands-on software and hardware projects**, always eager to tackle new technical challenges
+- Motivated to continue learning, building, and pushing the boundaries of what technology can do
+
+---
 
 **Languages:**  
 `Java` • `Python` • `C++` • `C#` • `JavaScript` • `HTML/CSS`
