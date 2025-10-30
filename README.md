@@ -1,6 +1,6 @@
 # Hey, I'm Othon!
 
-**Majoring in Computer Science & Engineering at The Ohio State University** Specializing in **Software Engineering**
+**Welcome to my GitHub Page!**
 ---
 **About Me:** 
 - Computer Science & Engineering student at **The Ohio State University**, passionate about technology and innovation
