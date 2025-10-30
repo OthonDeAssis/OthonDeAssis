@@ -6,9 +6,9 @@
 **Languages:**  
 `Java` • `Python` • `C++` • `C#` • `JavaScript` • `HTML/CSS`
 
-
 ---
 ### Contacts:
-Linked in:
+LinkedIn: https://www.linkedin.com/in/othon-deassis/
+School Email: deassis.2@osu.edu
+Work Email: othondeassis@outlook.com
 
----
