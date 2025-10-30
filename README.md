@@ -25,7 +25,7 @@
 ### Some Fun Facts:
 - I am minoring in Music, Media, and Enterprise at The Ohio State University
 - I have been playing guitar for over 10 years and love developing music for video games
-- Built over 30 desktop computers for my friends and family members
+- Built over 30 desktop computers for my friends and family members (and happy to build more)
 
 ---
 
