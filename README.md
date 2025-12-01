@@ -2,7 +2,7 @@
 **Welcome to my GitHub Page!**
 ---
 **About Me:** 
-- Computer Science & Engineering student at **The Ohio State University**, passionate about technology and innovation
+- Currently an undergrad in Computer Science & Engineering student at **The Ohio State University**, passionate about technology and innovation
 - Earned an **Honors Diploma** from River Valley High School with an **Associate's degree in Software Development** from Marion Technical College
 - Strong foundation in **programming, data structures, algorithms, and engineering principles**
 - Experienced in **hands-on software and hardware projects**, always eager to tackle new technical challenges
