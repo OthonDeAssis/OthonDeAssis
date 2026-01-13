@@ -9,11 +9,11 @@
 - Motivated to continue learning, building, and pushing the boundaries of what technology can do
 ---
 **Languages:**  
-`Java` • `Python` • `C++` • `C#` • `JavaScript` • `HTML/CSS`
 - Java
 - JavaScript
 - C++
 - C#
+- C
 - Python
 - HTML/CSS
 - mySQL
@@ -26,5 +26,5 @@
 ### Where to reach me:
 - **LinkedIn:** https://www.linkedin.com/in/othon-deassis/
 - **School Email:** deassis.2@osu.edu
-- **Work Email:** othondeassis@outlook.com
+- **Contact Email:** othondeassis@outlook.com
 
